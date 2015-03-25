@@ -17,7 +17,7 @@ Configuration and support files for a suite of PHPunit tests for a WordPress web
 1. Modify `wp-tests-config.local.php` to use the new database and user.
 1. `cp phpunit-sample.xml ../../phpunit.xml`
 1. Optional; Modify `../../phpunit.xml` to include test directories of more plugins.
-1. Optional; Write tests.  For an example, see [*Drupal Password Encryption* plugin's AuthTest.php](https://github.com/BevanR/Drupal-password-encryption-for-WordPress/tree/trunk/test/AuthTest.php).
+1. Optional; Write tests.  For an example, see [*Drupal Password Encryption* plugin's `AuthTest.php`](https://github.com/BevanR/Drupal-password-encryption-for-WordPress/tree/trunk/test/AuthTest.php).
 
 ## Usage
 
