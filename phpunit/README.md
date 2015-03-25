@@ -1,6 +1,6 @@
 # PHPunit test suite for WordPress websites
 
-This directory contains configuration and support files for the suite of PHPunit tests.  The tests themselves go elsewhere.  See "Contribution", below.
+Configuration and support files for a suite of PHPunit tests for a WordPress website.
 
 ## Requirements
 
